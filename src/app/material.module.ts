@@ -32,7 +32,7 @@ import {
     MatFormFieldModule,
     MatIconModule,
     MatInputModule,
-    MatListModule,    
+    MatListModule,
     MatNativeDateModule,
     MatSidenavModule,
     MatToolbarModule
